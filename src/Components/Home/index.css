@@ -1,0 +1,81 @@
+.Home-container {
+  display: flex;
+  flex-direction: column;
+  height: 10ovh;
+  font-family: 'Lato', sans-serif;
+}
+
+.Home-baby-container {
+  flex: .5;
+}
+
+.baby-one {
+  diplay: flex;
+  background-color: #262626;
+}
+
+.Home-me-title{
+  color: white;
+}
+
+.Home-my-photo {
+  border-radius: 100%;
+  margin-left: 42vw;
+  height: 15;
+  width: 15%;
+  margin-bottom: 1%;
+  margin-top: 5%;
+  box-shadow: 10px 10px 10px 1px black;
+}
+
+
+
+.Home-my-photo-container {
+  flex: 1;
+}
+
+.Home-me-synopsis {
+  color: #4DA1A9;
+  font-size: 16pt;
+  text-shadow: 2px 2px 10px grey;
+}
+
+.Home-me-description {
+  flex: 1;
+  text-align: center;
+}
+
+.baby-two {
+  flex: 1;
+  margin-top: 1%;
+  display: flex;
+}
+
+.Home-summary {
+  flex: 1;
+  padding: 3%;
+  margin-right: 2%;
+}
+
+.Home-summary-text {
+  color: #2E5077;
+  font-size: 14pt;
+  font-weight:  bold;
+}
+
+.Home-skills {
+  flex: 1;
+  padding: 3%;
+}
+
+.Home-summary-title {
+  color: #BBC2E2;
+}
+
+.Home-skills-title {
+  color: #BBC2E2;
+}
+
+.Home-skills-section{
+  color: #2E5077;
+}

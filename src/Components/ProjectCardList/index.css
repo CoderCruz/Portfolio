@@ -1,0 +1,54 @@
+.ProjectCard-parent {
+  width: 100vw;
+  height: 100vh;
+  Padding: 3%;
+}
+.cards-slider-wrapper {
+  display: flex;
+  position: absolute;
+  transition: transform 300ms cubic-bezier(0.455, 0.03, 0.515, 0.955)
+}
+
+.cards-slider {
+  position: relative;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.cards-slider.active-slide-0 #card-0 {
+  opacity: 1;
+  transform: scale(1);
+}
+
+.cards-slider.active-slide-1 #card-1 {
+  opacity: 1;
+  transform: scale(1);
+}
+
+.cards-slider.active-slide-2 #card-2 {
+  opacity: 1;
+  transform: scale(1);
+}
+
+.cards-slider::after {
+  content: '';
+  display: block;
+  width: 400px;
+  height: 500px;
+  outline: 5px solid #4E5283;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.buttons {
+  background-color: white;
+  width: 10%;
+  height: 10%;
+  flex: 1;
+}
+
+.button-container {
+  margin-top: 3%;
+  margin-left: 45%;
+}
