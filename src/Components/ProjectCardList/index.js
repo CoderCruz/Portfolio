@@ -56,7 +56,6 @@ prevProperty = () => {
            </section>
 
            <div className="col">
-             <div className={`cards-slider active-slide-${property.index}`}>
                <div className="cards-slider-wrapper" style={{
                  'transform': `translateX(-${property.index*(100/properties.length)}%)`
                }}>
@@ -64,7 +63,7 @@ prevProperty = () => {
                    properties.map(property => <ProjectCard key={property._id} property={property} />)
                  }
                </div>
-             </div>
+
            </div>
 
        </div>

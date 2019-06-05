@@ -1,7 +1,7 @@
 .Home-container {
   display: flex;
   flex-direction: column;
-  height: 10ovh;
+  height: 100%;
   font-family: 'Lato', sans-serif;
 }
 
@@ -10,7 +10,6 @@
 }
 
 .baby-one {
-  diplay: flex;
   background-color: #262626;
 }
 
@@ -66,6 +65,7 @@
 .Home-skills {
   flex: 1;
   padding: 3%;
+  font-weight:  bold;
 }
 
 .Home-summary-title {

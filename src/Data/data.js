@@ -3,7 +3,7 @@ const data = {
       {
         "_id": 1,
         "index": 0,
-        "link": "",
+        "link": "https://pages.git.generalassemb.ly/CodeandCruz/project-1/possible_game/index.html",
         "image": "https://i.imgur.com/XxMMtyf.png",
         "name": "Very Possible Game",
         "skills": "HTML, CSS, Javascript",
@@ -12,7 +12,7 @@ const data = {
       {
         "_id": 2,
         "index": 1,
-        "link": "",
+        "link": "http://damaging-basin.surge.sh/",
         "image": "https://i.imgur.com/GbUxbVV.png",
         "name": "FAVEPS",
         "skills": "React, CSS, JavaScript",
@@ -21,7 +21,7 @@ const data = {
       {
         "_id": 3,
         "index": 2,
-        "link": "",
+        "link": "https://close-deal-app.herokuapp.com/",
         "image": "https://i.imgur.com/qKQ7Oho.png",
         "name": "CloseDeal",
         "skills": "React, CSS, JavaScript, Express, postgreSQL",

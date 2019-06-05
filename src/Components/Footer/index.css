@@ -11,5 +11,8 @@
   height: 3%;
   margin: .5%;
   color: #262626;
-  /* padding: 3%; */
+}
+
+.Footer-links:hover {
+  color: #4E5283;
 }

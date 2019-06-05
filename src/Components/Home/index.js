@@ -29,34 +29,34 @@ const Home = () => {
 
             </div>
             <div className="Home-skills-section">
-              HTML <i class="fas fa-check"></i>
+              HTML
             </div>
             <div className="Home-skills-section">
-              CSS <i class="fas fa-check"></i>
+              CSS
             </div>
             <div className="Home-skills-section">
-              JAVASCRIPT <i class="fas fa-check"></i>
+              JAVASCRIPT
             </div>
             <div className="Home-skills-section">
-              REACT <i class="fas fa-check"></i>
+              REACT
             </div>
             <div className="Home-skills-section">
-              EXPRESS <i class="fas fa-check"></i>
+              EXPRESS
             </div>
             <div className="Home-skills-section">
-              RUBY <i class="fas fa-check"></i>
+              RUBY
             </div>
             <div className="Home-skills-section">
-              RUBY ON RAILS <i class="fas fa-check"></i>
+              RUBY ON RAILS
             </div>
             <div className="Home-skills-section">
-              SQL <i class="fas fa-check"></i>
+              SQL
             </div>
             <div className="Home-skills-section">
-              SEQUELIZE <i class="fas fa-check"></i>
+              SEQUELIZE
             </div>
             <div className="Home-skills-section">
-              POSTGRESQL <i class="fas fa-check"></i>
+              POSTGRESQL
             </div>
           </div>
         </div>
