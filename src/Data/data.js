@@ -26,6 +26,15 @@ const data = {
         "name": "CloseDeal",
         "skills": "React, CSS, JavaScript, Express, postgreSQL",
         "description": "A full CRUD application created working with 2 other partners, that allows you to shop, write reviews on another customer."
+      },
+      {
+        "-id": 4,
+        "index:": 2,
+        "link": "https://peperossosocial.herokuapp.com/",
+        "image": "https://imgur.com/dfjTO5L",
+        "name":"peperossosocial",
+        "skills": "React.js",
+        "description": "A redesign project on a restaurant, with ux designers. Dealing with handoff, agile sprint, and git version control."
       }
     ]
 }
