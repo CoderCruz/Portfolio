@@ -52,7 +52,7 @@ prevProperty = () => {
 
        <div className="page">
            <section>
-               <h1>Personal Projects</h1>
+               <h1 className= "project-title">Personal Projects</h1>
            </section>
 
            <div className="col">

@@ -8,7 +8,7 @@ const ProjectCard = ({ property }) => {
   return(
 
     <div id={`card-${index}`} className="card">
-      <a href={link}><img className="ProjectCard-image" src={image} alt={name}/></a>
+      <a target="_blank" href={link} rel="noopener noreferrer"><img className="ProjectCard-image" src={image} alt={name}/></a>
       <div className="details">
         <p className="ProjectCard-info">
           <h3>{name}</h3><br />
